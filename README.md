@@ -1,209 +1,217 @@
 <!--
-  ===================================================================
-  EMMY PENCIL | GitHub Profile README
-  Designed by Emmy Pencil AI
-  ===================================================================
-  A futuristic, premium, dark-first GitHub profile.
-  Brand: Robotics · AI · Aerospace · Defense · Quantum
-  ===================================================================
+  ============================================================
+  EMMY PENCIL | GitHub Profile
+  Digital Headquarters of a Robotics Founder
+  Design Language: Apple × SpaceX × Anduril × Neuralink
+  ============================================================
 -->
 
+<!-- LOADING SCREEN -->
+<p align="center">
+  <img src="assets/loading.gif" alt="Initializing Systems" width="100%" />
+</p>
+
+<!-- ============================================================ -->
+<!-- CINEMATIC SVG HERO – Fighter Jet Entry, Robot, Mars, AI Grid -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="assets/hero-cinematic.svg" alt="Hero Banner" width="100%" />
+</p>
+
+<!-- ============================================================ -->
+<!-- ANIMATED TYPING HEADER WITH RADAR SWEEP                          -->
+<!-- ============================================================ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Emmy+Pencil" alt="Hey, I'm Emmy Pencil" />
+  <img src="assets/header-neon.svg" alt="EMMY PENCIL" width="600" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&duration=4000&pause=800&color=90E0EF&center=true&vCenter=true&width=700&height=50&lines=Robotics+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Rocket+Scientist;Founder+%26+CEO+%E2%80%A2+Building+the+Future" alt="Robotics Engineer • AI Researcher • Rocket Scientist • Founder & CEO" />
+  <img src="assets/typing-role.svg" alt="Robotics Engineer • AI Researcher • Rocket Scientist • Founder & CEO" width="700" />
 </p>
 
-<br />
-
+<!-- ============================================================ -->
+<!-- VISITOR COUNTER + BADGES                                      -->
+<!-- ============================================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmmyPencilAI&label=VISITORS&color=0077B6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EmmyPencilAI&label=SECURITY+CLEARANCE&color=00B4D8&style=flat-square" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/EmmyPencilAI?label=FOLLOWERS&style=flat-square&color=00B4D8" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/EmmyPencilAI?label=ASSETS&style=flat-square&color=00B4D8" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/EmmyPencilAI?label=STARS&style=flat-square&color=00B4D8" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/EmmyPencilAI?label=STARS&style=flat-square&color=00B4D8" />
 </p>
 
-<br />
-<br />
+<br /><br />
 
-<!--  =================  HERO BANNER  =================  -->
+<!-- ============================================================ -->
+<!-- BACKGROUND: MOVING STARS + SATELLITE ORBIT (SVG)            -->
+<!-- ============================================================ -->
 <p align="center">
-  <img src="https://placehold.co/1200x400/0A1128/00B4D8?text=BUILDING+THE+FUTURE+%7C+AI+%E2%80%A2+ROBOTICS+%E2%80%A2+AEROSPACE" alt="Hero Banner" width="100%" />
+  <img src="assets/background-stars.svg" alt="Background Stars" width="100%" style="position:relative; z-index:-1;" />
 </p>
 
-<br />
-<br />
-
-<!--  =================  ABOUT ME  =================  -->
+<!-- ============================================================ -->
+<!-- COMPANY ECOSYSTEM – Visual Architecture                      -->
+<!-- ============================================================ -->
 <h2 align="center">
-  <span style="color:#00B4D8;">✦</span> ABOUT ME <span style="color:#00B4D8;">✦</span>
+  <img src="assets/divider-ecosystem.svg" alt="ECOSYSTEM" width="400" />
 </h2>
 
 <br />
 
-<table align="center" width="100%" border="0" cellpadding="20">
+<p align="center">
+  <img src="assets/ecosystem-map.svg" alt="Company Ecosystem" width="90%" />
+</p>
+
+<br /><br />
+
+<!-- ============================================================ -->
+<!-- ABOUT ME – Product Launch Style                             -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="assets/divider-about.svg" alt="ABOUT" width="300" />
+</h2>
+
+<br />
+
+<table align="center" width="95%" border="0" cellpadding="30">
   <tr>
-    <td width="65%" valign="top">
-      <h3>Building the future, one system at a time.</h3>
-      <p>
-        I'm <strong>Emmy Pencil</strong> — a robotics engineer, AI researcher, rocket scientist, and founder of multiple deep-tech ventures.
-        My work spans autonomous agents, defense-grade robotics, aerospace systems, and next‑generation energy solutions.
-      </p>
-      <p>
-        I believe in technology that serves humanity — not just products, but platforms that redefine what's possible.
-        From <strong>QuantumAgent</strong> to <strong>Nexus Mars</strong>, every project is a step toward a future where intelligence is embedded in everything.
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/portrait-robot.svg" alt="Portrait" width="100%" />
+    </td>
+    <td width="60%" valign="top">
+      <h3 style="color:#00B4D8; font-family:'Orbitron',sans-serif;">MISSION</h3>
+      <p style="font-family:'Nevada',sans-serif; font-size:1.2rem; color:#FFFFFF;">
+        Building autonomous intelligence for Earth and beyond through AI, Robotics, Aerospace, Defense, and Future Energy Systems.
       </p>
       <br />
-      <p>
-        <strong>Mission:</strong> Build intelligent machines and autonomous systems that operate across Earth, orbit, and beyond.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://placehold.co/300x300/0A1128/00B4D8?text=ROBOTICS+%26+AI" alt="Robotics & AI Illustration" width="100%" style="border-radius:20px;" />
+      <h4 style="color:#90E0EF;">CORE VALUES</h4>
+      <ul style="list-style:none; padding:0;">
+        <li>✦ <strong>Autonomy</strong> – Systems that think independently</li>
+        <li>✦ <strong>Precision</strong> – Engineering with zero tolerance</li>
+        <li>✦ <strong>Future</strong> – Building what doesn't exist yet</li>
+        <li>✦ <strong>Impact</strong> – Technology that outlives its creator</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br />
-<br />
+<br /><br />
 
-<!--  =================  CURRENT FOCUS  =================  -->
+<!-- ============================================================ -->
+<!-- CURRENT FOCUS – Futuristic Pillars                          -->
+<!-- ============================================================ -->
 <h2 align="center">
-  <span style="color:#00B4D8;">◈</span> CURRENT FOCUS <span style="color:#00B4D8;">◈</span>
+  <img src="assets/divider-focus.svg" alt="CURRENT FOCUS" width="350" />
 </h2>
 
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-00B4D8?style=for-the-badge&logo=openai&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Robotics-0077B6?style=for-the-badge&logo=ros&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Defense%20Tech-0A1128?style=for-the-badge&logo=anduril&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Aerospace-023E8A?style=for-the-badge&logo=spacex&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/QuantumAgent-00B4D8?style=for-the-badge&logo=quantum&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gugu%20Robotics-0077B6?style=for-the-badge&logo=robotframework&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nexus%20Mars-0A1128?style=for-the-badge&logo=planet&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-023E8A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="assets/focus-pillars.svg" alt="Focus Pillars" width="90%" />
 </p>
 
-<br />
-<br />
+<br /><br />
 
-<!--  =================  COMPANIES  =================  -->
+<!-- ============================================================ -->
+<!-- FEATURED PROJECTS – Large Cards with Status                  -->
+<!-- ============================================================ -->
 <h2 align="center">
-  <span style="color:#00B4D8;">◆</span> COMPANIES <span style="color:#00B4D8;">◆</span>
+  <img src="assets/divider-projects.svg" alt="PROJECTS" width="320" />
 </h2>
 
 <br />
 
-<table align="center" width="90%" border="0" cellpadding="15" cellspacing="0">
+<table align="center" width="95%" border="0" cellpadding="25">
   <tr>
-    <td width="33%" align="center" style="border:1px solid #00B4D8; border-radius:16px; padding:20px;">
+    <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/project-quantumagent.svg" alt="QuantumAgent" width="100%" />
+      <h3 style="color:#00B4D8;">QuantumAgent</h3>
+      <p style="color:#90E0EF;">Autonomous AI agents for enterprise & defense</p>
+      <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#00FF88;">● Active</span></p>
+      <p><strong style="color:#00B4D8;">Tech:</strong> Python, TensorFlow, ROS2, Rust</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> Real‑time decision systems</p>
+      <br />
+      <a href="https://quantumagent.one"><img src="assets/button-glow.svg" alt="Visit" width="120" /></a>
+    </td>
+    <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/project-gugu.svg" alt="Gugu Robotics" width="100%" />
       <h3 style="color:#00B4D8;">Gugu Robotics</h3>
-      <p>Autonomous robotics for industrial & defense.</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
+      <p style="color:#90E0EF;">Autonomous robotics for industrial & defense</p>
+      <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#00FF88;">● Active</span></p>
+      <p><strong style="color:#00B4D8;">Tech:</strong> C++, ROS2, OpenCV, Arduino</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> Manufacturing & logistics</p>
+      <br />
+      <a href="https://gugurobotics.com"><img src="assets/button-glow.svg" alt="Visit" width="120" /></a>
     </td>
-    <td width="33%" align="center" style="border:1px solid #00B4D8; border-radius:16px; padding:20px;">
-      <h3 style="color:#00B4D8;">QuantumAgent</h3>
-      <p>AI agents for complex decision-making.</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
-    </td>
-    <td width="33%" align="center" style="border:1px solid #00B4D8; border-radius:16px; padding:20px;">
+    <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/project-nexus.svg" alt="Nexus Mars" width="100%" />
       <h3 style="color:#00B4D8;">Nexus Mars</h3>
-      <p>Aerospace & planetary exploration systems.</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
+      <p style="color:#90E0EF;">Aerospace & planetary exploration systems</p>
+      <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#FFD700;">● R&D</span></p>
+      <p><strong style="color:#00B4D8;">Tech:</strong> C++, ROS2, PX4, Aerospace</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> Mars colonization infrastructure</p>
+      <br />
+      <a href="#"><img src="assets/button-glow.svg" alt="Visit" width="120" /></a>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" style="border:1px solid #00B4D8; border-radius:16px; padding:20px;">
+    <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/project-thalexa.svg" alt="Thalexa AI" width="100%" />
       <h3 style="color:#00B4D8;">Thalexa AI</h3>
-      <p>Next‑gen AI infrastructure & agents.</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
+      <p style="color:#90E0EF;">Next‑gen AI infrastructure & agents</p>
+      <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#00FF88;">● Active</span></p>
+      <p><strong style="color:#00B4D8;">Tech:</strong> PyTorch, TypeScript, Next.js, Docker</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> Scalable AI for enterprise</p>
+      <br />
+      <a href="#"><img src="assets/button-glow.svg" alt="Visit" width="120" /></a>
     </td>
-    <td width="33%" align="center" style="border:1px solid #00B4D8; border-radius:16px; padding:20px;">
+    <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/project-wealth.svg" alt="Wealth Tailor" width="100%" />
       <h3 style="color:#00B4D8;">Wealth Tailor</h3>
-      <p>AI‑driven financial intelligence.</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
+      <p style="color:#90E0EF;">AI‑driven financial intelligence</p>
+      <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#00FF88;">● Active</span></p>
+      <p><strong style="color:#00B4D8;">Tech:</strong> Python, Rust, Cloud, Cybersecurity</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> Decentralized wealth management</p>
+      <br />
+      <a href="#"><img src="assets/button-glow.svg" alt="Visit" width="120" /></a>
     </td>
-    <td width="33%" align="center" style="border:1px solid #00B4D8; border-radius:16px; padding:20px;">
-      <h3 style="color:#00B4D8;">EmmyPencil.one</h3>
-      <p>Personal brand & deep‑tech hub.</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
-    </td>
-  </tr>
-</table>
-
-<br />
-<br />
-
-<!--  =================  FEATURED PROJECTS  =================  -->
-<h2 align="center">
-  <span style="color:#00B4D8;">◉</span> FEATURED PROJECTS <span style="color:#00B4D8;">◉</span>
-</h2>
-
-<br />
-
-<table align="center" width="90%" border="0" cellpadding="20">
-  <tr>
-    <td width="50%" style="border:1px solid #0077B6; border-radius:16px; padding:20px;">
-      <h3 style="color:#00B4D8;">QuantumAgent</h3>
-      <p>Autonomous AI agents for enterprise and defense.</p>
-      <p><strong>Tech:</strong> Python, TensorFlow, ROS2, Rust</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
-    </td>
-    <td width="50%" style="border:1px solid #0077B6; border-radius:16px; padding:20px;">
-      <h3 style="color:#00B4D8;">Thalexa AI</h3>
-      <p>Scalable AI infrastructure for real‑time decisions.</p>
-      <p><strong>Tech:</strong> PyTorch, TypeScript, Next.js, Docker</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border:1px solid #0077B6; border-radius:16px; padding:20px;">
-      <h3 style="color:#00B4D8;">Cybunk Rover</h3>
-      <p>Autonomous rover for extreme environments.</p>
-      <p><strong>Tech:</strong> C++, ROS2, OpenCV, Arduino</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
-    </td>
-    <td width="50%" style="border:1px solid #0077B6; border-radius:16px; padding:20px;">
-      <h3 style="color:#00B4D8;">PhotonPulse Generator</h3>
-      <p>Next‑gen energy harvesting system.</p>
-      <p><strong>Tech:</strong> Embedded, C, Rust, Linux</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border:1px solid #0077B6; border-radius:16px; padding:20px;">
+    <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/project-blackhalo.svg" alt="Black Halo" width="100%" />
       <h3 style="color:#00B4D8;">Black Halo</h3>
-      <p>Cybersecurity & defense AI platform.</p>
-      <p><strong>Tech:</strong> Python, Rust, Cloud, Cybersecurity</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
-    </td>
-    <td width="50%" style="border:1px solid #0077B6; border-radius:16px; padding:20px;">
-      <h3 style="color:#00B4D8;">Phoenix UAV</h3>
-      <p>Autonomous drone system for surveillance & delivery.</p>
-      <p><strong>Tech:</strong> C++, ROS2, PX4, Aerospace</p>
-      <p><strong>Status:</strong> <span style="color:#90E0EF;">Active</span></p>
+      <p style="color:#90E0EF;">Cybersecurity & defense AI platform</p>
+      <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#00FF88;">● Active</span></p>
+      <p><strong style="color:#00B4D8;">Tech:</strong> Python, Rust, Cloud, Cybersecurity</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> National security & infrastructure</p>
+      <br />
+      <a href="#"><img src="assets/button-glow.svg" alt="Visit" width="120" /></a>
     </td>
   </tr>
 </table>
 
-<br />
+<br /><br />
+
+<!-- ============================================================ -->
+<!-- TECH STACK – Interactive Groups                              -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="assets/divider-tech.svg" alt="TECH STACK" width="320" />
+</h2>
+
 <br />
 
-<!--  =================  TECH STACK  =================  -->
-<h2 align="center">
-  <span style="color:#00B4D8;">⚡</span> TECH STACK <span style="color:#00B4D8;">⚡</span>
-</h2>
+<p align="center">
+  <img src="assets/tech-ai.svg" alt="AI" width="120" />
+  <img src="assets/tech-robotics.svg" alt="Robotics" width="120" />
+  <img src="assets/tech-embedded.svg" alt="Embedded" width="120" />
+  <img src="assets/tech-cloud.svg" alt="Cloud" width="120" />
+</p>
+<p align="center">
+  <img src="assets/tech-frontend.svg" alt="Frontend" width="120" />
+  <img src="assets/tech-backend.svg" alt="Backend" width="120" />
+  <img src="assets/tech-devops.svg" alt="DevOps" width="120" />
+  <img src="assets/tech-defense.svg" alt="Defense" width="120" />
+  <img src="assets/tech-aerospace.svg" alt="Aerospace" width="120" />
+</p>
 
 <br />
 
@@ -211,93 +219,121 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,nextjs,react,threejs,docker,linux,tensorflow,pytorch,opencv,arduino" />
 </p>
 
-<br />
+<br /><br />
 
-<p align="center">
-  <strong style="color:#00B4D8;">Languages</strong> &nbsp; Python · C++ · Rust · TypeScript
-  <br /><br />
-  <strong style="color:#00B4D8;">AI & ML</strong> &nbsp; TensorFlow · PyTorch · OpenCV
-  <br /><br />
-  <strong style="color:#00B4D8;">Cloud & DevOps</strong> &nbsp; Docker · Linux · Cloud
-  <br /><br />
-  <strong style="color:#00B4D8;">Robotics & Embedded</strong> &nbsp; ROS2 · Arduino · Embedded Systems
-  <br /><br />
-  <strong style="color:#00B4D8;">Frameworks</strong> &nbsp; Next.js · React · Three.js
-  <br /><br />
-  <strong style="color:#00B4D8;">Tools</strong> &nbsp; Git · Vercel · GitHub Actions
-</p>
-
-<br />
-<br />
-
-<!--  =================  GITHUB ANALYTICS  =================  -->
+<!-- ============================================================ -->
+<!-- GITHUB STATS – Futuristic Panels                            -->
+<!-- ============================================================ -->
 <h2 align="center">
-  <span style="color:#00B4D8;">▣</span> GITHUB ANALYTICS <span style="color:#00B4D8;">▣</span>
+  <img src="assets/divider-stats.svg" alt="ANALYTICS" width="320" />
+</h2>
+
+<br />
+
+<table align="center" width="95%" border="0" cellpadding="20">
+  <tr>
+    <td width="50%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/panel-stats.svg" alt="GitHub Stats" width="100%" />
+      <br /><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=EmmyPencilAI&show_icons=true&count_private=true&hide_border=true&bg_color=0A1128&title_color=00B4D8&text_color=FFFFFF&icon_color=00B4D8" alt="Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/panel-languages.svg" alt="Languages" width="100%" />
+      <br /><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmyPencilAI&layout=compact&hide_border=true&bg_color=0A1128&title_color=00B4D8&text_color=FFFFFF" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/panel-streak.svg" alt="Streak" width="100%" />
+      <br /><br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmyPencilAI&hide_border=true&background=0A1128&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak" width="80%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
+      <img src="assets/panel-graph.svg" alt="Activity" width="100%" />
+      <br /><br />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmyPencilAI&bg_color=0A1128&color=FFFFFF&line=00B4D8&point=90E0EF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+    </td>
+  </tr>
+</table>
+
+<br /><br />
+
+<!-- ============================================================ -->
+<!-- ACHIEVEMENTS – Trophies & Philosophy                        -->
+<!-- ============================================================ -->
+<h2 align="center">
+  <img src="assets/divider-achievements.svg" alt="ACHIEVEMENTS" width="350" />
 </h2>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmyPencilAI&show_icons=true&count_private=true&hide_border=true&bg_color=0A1128&title_color=00B4D8&text_color=FFFFFF&icon_color=00B4D8" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmyPencilAI&layout=compact&hide_border=true&bg_color=0A1128&title_color=00B4D8&text_color=FFFFFF" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EmmyPencilAI&theme=darkhub&no-frame=true&row=2&column=4" alt="Trophies" width="80%" />
 </p>
 
-<br />
+<br /><br />
 
+<!-- ============================================================ -->
+<!-- PHILOSOPHY QUOTE – Center Screen, Large Typography          -->
+<!-- ============================================================ -->
+<br /><br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmyPencilAI&hide_border=true&background=0A1128&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="55%" />
+  <img src="assets/divider-quote.svg" alt="PHILOSOPHY" width="300" />
 </p>
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmyPencilAI&bg_color=0A1128&color=FFFFFF&line=00B4D8&point=90E0EF&area=true&hide_border=true" alt="Activity Graph" width="90%" />
-</p>
+<blockquote align="center" style="border:none; padding:40px; background:linear-gradient(145deg,#0A1128,#000000); border-radius:20px; border-left:8px solid #00B4D8;">
+  <p style="font-family:'Orbitron',sans-serif; font-size:2.5rem; color:#FFFFFF; letter-spacing:2px;">
+    "We don't chase the future.<br />We engineer it."
+  </p>
+  <p style="font-family:'Nevada',sans-serif; font-size:1.2rem; color:#90E0EF;">
+    — Emmy Pencil
+  </p>
+</blockquote>
 
-<br />
-<br />
+<br /><br />
 
-<!--  =================  ACHIEVEMENTS  =================  -->
+<!-- ============================================================ -->
+<!-- TIMELINE – Vertical Journey                                 -->
+<!-- ============================================================ -->
 <h2 align="center">
-  <span style="color:#00B4D8;">🏆</span> ACHIEVEMENTS <span style="color:#00B4D8;">🏆</span>
+  <img src="assets/divider-timeline.svg" alt="TIMELINE" width="300" />
 </h2>
 
 <br />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmmyPencilAI&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="80%" />
+  <img src="assets/timeline-vertical.svg" alt="Timeline" width="80%" />
 </p>
 
-<br />
+<br /><br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmyPencilAI&show_icons=true&count_private=true&hide_border=true&bg_color=0A1128&title_color=00B4D8&text_color=FFFFFF&icon_color=00B4D8&include_all_commits=true" alt="Contribution Stats" width="48%" />
-  &nbsp;
-  <img src="https://placehold.co/400x200/0A1128/00B4D8?text=OPEN+SOURCE+PHILOSOPHY" alt="Open Source" width="40%" />
-</p>
-
-<br />
-<br />
-
-<!--  =================  CONTRIBUTION SNAKE  =================  -->
+<!-- ============================================================ -->
+<!-- FIGHTER JET CONTRIBUTION TRAIL                              -->
+<!-- ============================================================ -->
 <h2 align="center">
-  <span style="color:#00B4D8;">🐍</span> CONTRIBUTION SNAKE <span style="color:#00B4D8;">🐍</span>
+  <img src="assets/divider-jet.svg" alt="CONTRIBUTIONS" width="350" />
 </h2>
 
 <br />
 
 <p align="center">
-  <img src="https://github.com/EmmyPencilAI/EmmyPencilAI/blob/output/snake.svg" alt="Snake animation" />
+  <img src="assets/fighter-jet-trail.svg" alt="Fighter Jet Trail" width="90%" />
 </p>
 
 <br />
 
 <details>
-  <summary><strong style="color:#00B4D8;">GitHub Action for Snake</strong></summary>
+  <summary style="color:#00B4D8; font-family:'Orbitron',sans-serif;">
+    <strong>▼ DEPLOY JET TRAIL GENERATOR</strong>
+  </summary>
   <br />
-  <pre>
-name: Generate Snake
+  <pre style="background:#0A1128; color:#00B4D8; padding:20px; border-radius:12px;">
+name: Generate Jet Trail
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -311,86 +347,57 @@ jobs:
         with:
           github_user_name: EmmyPencilAI
           outputs: |
-            dist/snake.svg
+            dist/jet-trail.svg
       - uses: actions/upload-artifact@v3
         with:
-          name: snake
+          name: jet-trail
           path: dist
   </pre>
 </details>
 
-<br />
-<br />
+<br /><br />
 
-<!--  =================  TIMELINE  =================  -->
+<!-- ============================================================ -->
+<!-- SOCIAL CONNECT – Glowing Buttons                            -->
+<!-- ============================================================ -->
 <h2 align="center">
-  <span style="color:#00B4D8;">⏳</span> TIMELINE <span style="color:#00B4D8;">⏳</span>
+  <img src="assets/divider-connect.svg" alt="CONNECT" width="300" />
 </h2>
 
 <br />
 
 <p align="center">
-  <strong style="color:#00B4D8;">Founder</strong> &nbsp;→&nbsp;
-  <strong style="color:#00B4D8;">Research</strong> &nbsp;→&nbsp;
-  <strong style="color:#00B4D8;">Robotics</strong> &nbsp;→&nbsp;
-  <strong style="color:#00B4D8;">AI</strong> &nbsp;→&nbsp;
-  <strong style="color:#00B4D8;">Defense</strong> &nbsp;→&nbsp;
-  <strong style="color:#00B4D8;">Aerospace</strong> &nbsp;→&nbsp;
-  <strong style="color:#00B4D8;">Future</strong>
+  <a href="https://github.com/EmmyPencilAI"><img src="assets/btn-github.svg" alt="GitHub" width="140" /></a>
+  &nbsp;
+  <a href="https://emmypencil.one"><img src="assets/btn-website.svg" alt="Website" width="140" /></a>
+  &nbsp;
+  <a href="https://vercel.com/emmypencilais-projects"><img src="assets/btn-vercel.svg" alt="Vercel" width="140" /></a>
+  &nbsp;
+  <a href="#"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="140" /></a>
 </p>
-
-<br />
-<br />
-
-<!--  =================  PHILOSOPHY  =================  -->
-<h2 align="center">
-  <span style="color:#00B4D8;">◈</span> PHILOSOPHY <span style="color:#00B4D8;">◈</span>
-</h2>
-
-<br />
-
-<blockquote align="center" style="border-left: 4px solid #00B4D8; padding: 20px; background: #0A1128; border-radius: 12px;">
-  <p style="font-size: 1.5rem; color: #FFFFFF;">
-    <em>"We don't build products.<br />We build technologies that redefine civilizations."</em>
-  </p>
-</blockquote>
-
-<br />
-<br />
-
-<!--  =================  CONNECT  =================  -->
-<h2 align="center">
-  <span style="color:#00B4D8;">✧</span> CONNECT <span style="color:#00B4D8;">✧</span>
-</h2>
-
-<br />
-
 <p align="center">
-  <a href="https://github.com/EmmyPencilAI"><img src="https://img.shields.io/badge/GitHub-0A1128?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="assets/btn-x.svg" alt="X" width="140" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="assets/btn-youtube.svg" alt="YouTube" width="140" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/X-0A1128?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="#"><img src="assets/btn-instagram.svg" alt="Instagram" width="140" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="assets/btn-tiktok.svg" alt="TikTok" width="140" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:hello@emmypencil.one"><img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://emmypencil.one"><img src="https://img.shields.io/badge/Website-0077B6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:hello@emmypencil.one"><img src="assets/btn-email.svg" alt="Email" width="140" /></a>
 </p>
 
-<br />
-<br />
+<br /><br />
 
-<!--  =================  FOOTER  =================  -->
+<!-- ============================================================ -->
+<!-- CUSTOM SVG FOOTER – Mars Horizon + Blueprint Grid           -->
+<!-- ============================================================ -->
 <p align="center">
-  <img src="https://placehold.co/1200x80/0A1128/00B4D8?text=+EMMY+PENCIL+%7C+BUILDING+THE+FUTURE+%7C+AI+%E2%80%A2+ROBOTICS+%E2%80%A2+AEROSPACE+" alt="Footer" width="100%" />
+  <img src="assets/footer-mars-horizon.svg" alt="Mars Horizon" width="100%" />
 </p>
 
-<p align="center" style="color:#90E0EF; font-size:0.8rem;">
-  © 2026 Emmy Pencil. All rights reserved.
+<br />
+
+<p align="center" style="font-family:'Nevada',sans-serif; color:#90E0EF; font-size:0.8rem; letter-spacing:4px;">
+  © 2026 EMMY PENCIL • BUILDING THE FUTURE • AUTONOMOUS INTELLIGENCE
 </p>
