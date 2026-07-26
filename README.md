@@ -509,11 +509,11 @@ jobs:
   <a href="https://linkedin.com/in/emmypencil"><img src="https://img.shields.io/badge/LINKEDIN-0A1128?style=for-the-badge&logo=linkedin&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
 </p>
 <p align="center">
-  <a href="https://x.com/emmypencil"><img src="https://img.shields.io/badge/X-0A1128?style=for-the-badge&logo=x&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
+  <a href="https://x.com/robotemmypencil"><img src="https://img.shields.io/badge/X-0A1128?style=for-the-badge&logo=x&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
   <a href="https://youtube.com/@emmypencil"><img src="https://img.shields.io/badge/YOUTUBE-0A1128?style=for-the-badge&logo=youtube&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
-  <a href="https://instagram.com/emmypencil"><img src="https://img.shields.io/badge/INSTAGRAM-0A1128?style=for-the-badge&logo=instagram&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
+  <a href="https://instagram.com/iamemmypencil"><img src="https://img.shields.io/badge/INSTAGRAM-0A1128?style=for-the-badge&logo=instagram&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
   <a href="https://tiktok.com/@emmypencil"><img src="https://img.shields.io/badge/TIKTOK-0A1128?style=for-the-badge&logo=tiktok&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
