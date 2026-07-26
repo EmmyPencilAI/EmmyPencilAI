@@ -1,16 +1,13 @@
 <!--
   ============================================================
   EMMY PENCIL | GitHub Profile
-  GitHub-Compliant Version with Images
+  GitHub-Compliant Version with Custom Images
   ============================================================
 -->
 
-<!-- HERO BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/1200x400/0A1128/00B4D8?text=⚡+EMMY+PENCIL+⚡+%7C+BUILDING+THE+FUTURE">
-    <img width="1536" height="1024" alt="header-banner" src="https://github.com/user-attachments/assets/f7536596-62ba-48ca-9f63-40cb24224037" />
-  </picture>
+  <img src="assets/header-banner.png" alt="Emmy Pencil Header Banner" width="100%" />
 </p>
 
 <!-- TYPING TITLE -->
@@ -20,7 +17,7 @@
 
 <!-- SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=24&duration=4000&pause=800&color=90E0EF&center=true&vCenter=true&width=900&height=50&lines=Robotics+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Rocket+Scientist;Founder+%26+CEO+%E2%80%A2+Building+Autonomous+Intelligence" alt="Robotics Engineer • AI Researcher • Rocket Scientist • Founder & CEO" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=24&duration=4000&pause=800&color=90E0EF&center=true&vCenter=true&width=900&height=50;lines=Robotics+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Rocket+Scientist;Founder+%26+CEO+%E2%80%A2+Building+Autonomous+Intelligence" alt="Robotics Engineer • AI Researcher • Rocket Scientist • Founder & CEO" />
 </p>
 
 <!-- BADGES -->
@@ -62,7 +59,7 @@
     <td align="center" style="padding:15px;">
       <div style="border:1px solid #00B4D8; border-radius:15px; padding:20px; background:#000000; min-width:120px;">
         <h4 style="color:#00B4D8; margin:0;">🤖 QuantumAgent</h4>
-        <p style="color:#90E0EF; font-size:12px; margin:5px 0;">AI Agents</p>
+        <p style="color:#90E0EF; font-size:12px; margin:5px 0;">AI Trading Agent</p>
         <span style="color:#00FF88; font-size:10px;">● Active</span>
       </div>
     </td>
@@ -112,16 +109,15 @@
 
 <br />
 
-<!-- ABOUT ME -->
+<!-- ABOUT ME WITH YOUR PHOTO -->
 <table align="center" width="90%" border="0" cellpadding="30" style="border-collapse:collapse; background:#0A1128; border-radius:20px; border:1px solid #00B4D8;">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <div style="border:2px solid #00B4D8; border-radius:50%; width:200px; height:200px; display:flex; align-items:center; justify-content:center; background:radial-gradient(circle at center, #0A1128, #000000);">
-        <span style="font-size:80px; color:#00B4D8;">🤖</span>
-      </div>
+      <!-- Your Photo with Curved Edges -->
+      <img src="assets/your-photo.png" alt="Emmy Pencil" style="border-radius:20px; width:220px; height:220px; object-fit:cover; border:2px solid #00B4D8; box-shadow:0 0 40px rgba(0,180,216,0.3);" />
       <div style="margin-top:15px; text-align:center;">
-        <p style="color:#00B4D8; font-family:'Orbitron',sans-serif; font-size:14px; margin:5px 0;">EMMY PENCIL</p>
-        <p style="color:#90E0EF; font-size:12px; margin:0;">Robotics · AI · Aerospace</p>
+        <p style="color:#00B4D8; font-family:'Orbitron',sans-serif; font-size:16px; margin:5px 0; font-weight:700;">EMMY PENCIL</p>
+        <p style="color:#90E0EF; font-size:13px; margin:0;">Robotics · AI · Aerospace</p>
         <p style="color:#00FF88; font-size:11px; margin-top:5px;">● SECURITY CLEARANCE: OMEGA</p>
       </div>
     </td>
@@ -204,11 +200,11 @@
 <table align="center" width="95%" border="0" cellpadding="20" style="border-collapse:collapse;">
   <tr>
     <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
-      <h3 style="color:#00B4D8; font-family:'Orbitron',sans-serif;">🧠 QuantumAgent</h3>
-      <p style="color:#90E0EF;">Autonomous AI agents for enterprise & defense</p>
+      <h3 style="color:#00B4D8; font-family:'Orbitron',sans-serif;">📊 QuantumAgent</h3>
+      <p style="color:#90E0EF; font-size:13px;">AI-powered decentralized trading platform built on Web3 infrastructure. Combines high-frequency AI decision-making with real-time execution across crypto markets.</p>
       <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#00FF88;">● Active</span></p>
-      <p><strong style="color:#00B4D8;">Tech:</strong> Python, TensorFlow, ROS2, Rust</p>
-      <p><strong style="color:#00B4D8;">Impact:</strong> Real‑time decision systems</p>
+      <p><strong style="color:#00B4D8;">Tech:</strong> Python, TensorFlow, Web3, Solidity</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> Aggressive, adaptive, intelligent trading</p>
       <br />
       <a href="https://quantumagent.one"><img src="https://img.shields.io/badge/▶_DEPLOY-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
@@ -279,7 +275,7 @@
 
 <!-- TECH STACK ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,nextjs,react,threejs,docker,linux,tensorflow,pytorch,opencv,arduino,ros,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,nextjs,react,threejs,docker,linux,tensorflow,pytorch,opencv,arduino,ros,git,github,vercel,solidity" />
 </p>
 
 <br />
@@ -288,12 +284,12 @@
   <tr>
     <td align="center"><strong style="color:#00B4D8;">Languages</strong><br /><span style="color:#90E0EF;">Python · C++ · Rust · TypeScript</span></td>
     <td align="center"><strong style="color:#00B4D8;">AI & ML</strong><br /><span style="color:#90E0EF;">TensorFlow · PyTorch · OpenCV</span></td>
-    <td align="center"><strong style="color:#00B4D8;">Cloud</strong><br /><span style="color:#90E0EF;">Docker · Linux · Cloud</span></td>
+    <td align="center"><strong style="color:#00B4D8;">Web3</strong><br /><span style="color:#90E0EF;">Solidity · Web3.js · Smart Contracts</span></td>
   </tr>
   <tr>
     <td align="center"><strong style="color:#00B4D8;">Robotics</strong><br /><span style="color:#90E0EF;">ROS2 · Arduino · Embedded</span></td>
     <td align="center"><strong style="color:#00B4D8;">Frameworks</strong><br /><span style="color:#90E0EF;">Next.js · React · Three.js</span></td>
-    <td align="center"><strong style="color:#00B4D8;">DevOps</strong><br /><span style="color:#90E0EF;">Git · Vercel · CI/CD</span></td>
+    <td align="center"><strong style="color:#00B4D8;">DevOps</strong><br /><span style="color:#90E0EF;">Docker · Kubernetes · CI/CD</span></td>
   </tr>
 </table>
 
@@ -510,27 +506,23 @@ jobs:
   &nbsp;
   <a href="https://vercel.com/emmypencilais-projects"><img src="https://img.shields.io/badge/VERCEL-0A1128?style=for-the-badge&logo=vercel&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A1128?style=for-the-badge&logo=linkedin&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
+  <a href="https://linkedin.com/in/emmypencil"><img src="https://img.shields.io/badge/LINKEDIN-0A1128?style=for-the-badge&logo=linkedin&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/X-0A1128?style=for-the-badge&logo=x&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
+  <a href="https://x.com/emmypencil"><img src="https://img.shields.io/badge/X-0A1128?style=for-the-badge&logo=x&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/YOUTUBE-0A1128?style=for-the-badge&logo=youtube&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
+  <a href="https://youtube.com/@emmypencil"><img src="https://img.shields.io/badge/YOUTUBE-0A1128?style=for-the-badge&logo=youtube&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-0A1128?style=for-the-badge&logo=instagram&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
+  <a href="https://instagram.com/emmypencil"><img src="https://img.shields.io/badge/INSTAGRAM-0A1128?style=for-the-badge&logo=instagram&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/TIKTOK-0A1128?style=for-the-badge&logo=tiktok&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
+  <a href="https://tiktok.com/@emmypencil"><img src="https://img.shields.io/badge/TIKTOK-0A1128?style=for-the-badge&logo=tiktok&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
   &nbsp;
   <a href="mailto:hello@emmypencil.one"><img src="https://img.shields.io/badge/EMAIL-0A1128?style=for-the-badge&logo=gmail&logoColor=00B4D8&labelColor=0A1128&color=00B4D8" /></a>
 </p>
 
 <br /><br />
 
-<!-- FOOTER -->
+<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://placehold.co/1200x80/0A1128/00B4D8?text=✦+EMMY+PENCIL+✦+%7C+BUILDING+THE+FUTURE+✦+%7C+AUTONOMOUS+INTELLIGENCE" width="100%" />
-</p>
-
-<p align="center" style="color:#90E0EF; font-size:12px; letter-spacing:4px;">
-  © 2026 EMMY PENCIL • BUILDING THE FUTURE • AUTONOMOUS INTELLIGENCE
+  <img src="assets/footer-banner.png" alt="Emmy Pencil Footer Banner" width="100%" />
 </p>
