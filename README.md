@@ -9,7 +9,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/1200x400/0A1128/00B4D8?text=⚡+EMMY+PENCIL+⚡+%7C+BUILDING+THE+FUTURE">
-    <img src="assets/header-banner.png" />
+    <img alt="Emmy Pencil Header Banner" src="assets/header-banner.png" width="100%">
   </picture>
 </p>
 
