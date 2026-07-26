@@ -7,7 +7,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="assets/header-banner.png" alt="Emmy Pencil Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/EmmyPencilAI/EmmyPencilAI/main/assets/header-banner.png" alt="Emmy Pencil Header Banner" width="100%" />
 </p>
 
 <!-- TYPING TITLE -->
@@ -17,7 +17,7 @@
 
 <!-- SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=24&duration=4000&pause=800&color=90E0EF&center=true&vCenter=true&width=900&height=50;lines=Robotics+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Rocket+Scientist;Founder+%26+CEO+%E2%80%A2+Building+Autonomous+Intelligence" alt="Robotics Engineer • AI Researcher • Rocket Scientist • Founder & CEO" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=24&duration=4000&pause=800&color=90E0EF&center=true&vCenter=true&width=900&height=50&lines=Robotics+Engineer+%E2%80%A2+AI+Researcher+%E2%80%A2+Rocket+Scientist;Founder+%26+CEO+%E2%80%A2+Building+Autonomous+Intelligence" alt="Robotics Engineer • AI Researcher • Rocket Scientist • Founder & CEO" />
 </p>
 
 <!-- BADGES -->
@@ -58,36 +58,36 @@
   <tr>
     <td align="center" style="padding:15px;">
       <div style="border:1px solid #00B4D8; border-radius:15px; padding:20px; background:#000000; min-width:120px;">
-        <h4 style="color:#00B4D8; margin:0;">🤖 QuantumAgent</h4>
-        <p style="color:#90E0EF; font-size:12px; margin:5px 0;">AI Trading Agent</p>
+        <h4 style="color:#00B4D8; margin:0;">📊 QuantumAgent</h4>
+        <p style="color:#90E0EF; font-size:11px; margin:5px 0;">AI Trading Agent</p>
         <span style="color:#00FF88; font-size:10px;">● Active</span>
       </div>
     </td>
     <td align="center" style="padding:15px;">
       <div style="border:1px solid #00B4D8; border-radius:15px; padding:20px; background:#000000; min-width:120px;">
         <h4 style="color:#00B4D8; margin:0;">⚙️ Gugu Robotics</h4>
-        <p style="color:#90E0EF; font-size:12px; margin:5px 0;">Robotics</p>
+        <p style="color:#90E0EF; font-size:11px; margin:5px 0;">Robotics</p>
         <span style="color:#00FF88; font-size:10px;">● Active</span>
       </div>
     </td>
     <td align="center" style="padding:15px;">
       <div style="border:1px solid #FFD700; border-radius:15px; padding:20px; background:#000000; min-width:120px;">
         <h4 style="color:#FFD700; margin:0;">🔴 Nexus Mars</h4>
-        <p style="color:#90E0EF; font-size:12px; margin:5px 0;">Aerospace</p>
+        <p style="color:#90E0EF; font-size:11px; margin:5px 0;">Aerospace</p>
         <span style="color:#FFD700; font-size:10px;">● R&D</span>
       </div>
     </td>
     <td align="center" style="padding:15px;">
       <div style="border:1px solid #00B4D8; border-radius:15px; padding:20px; background:#000000; min-width:120px;">
         <h4 style="color:#00B4D8; margin:0;">🧠 Thalexa AI</h4>
-        <p style="color:#90E0EF; font-size:12px; margin:5px 0;">AI Infrastructure</p>
+        <p style="color:#90E0EF; font-size:11px; margin:5px 0;">AI Infrastructure</p>
         <span style="color:#00FF88; font-size:10px;">● Active</span>
       </div>
     </td>
     <td align="center" style="padding:15px;">
       <div style="border:1px solid #00B4D8; border-radius:15px; padding:20px; background:#000000; min-width:120px;">
         <h4 style="color:#00B4D8; margin:0;">💰 Wealth Tailor</h4>
-        <p style="color:#90E0EF; font-size:12px; margin:5px 0;">FinTech</p>
+        <p style="color:#90E0EF; font-size:11px; margin:5px 0;">FinTech</p>
         <span style="color:#00FF88; font-size:10px;">● Active</span>
       </div>
     </td>
@@ -114,7 +114,7 @@
   <tr>
     <td width="35%" align="center" valign="middle">
       <!-- Your Photo with Curved Edges -->
-      <img src="assets/your-photo.png" alt="Emmy Pencil" style="border-radius:20px; width:220px; height:220px; object-fit:cover; border:2px solid #00B4D8; box-shadow:0 0 40px rgba(0,180,216,0.3);" />
+      <img src="https://raw.githubusercontent.com/EmmyPencilAI/EmmyPencilAI/main/assets/your-photo.png" alt="Emmy Pencil" style="border-radius:20px; width:220px; height:220px; object-fit:cover; border:2px solid #00B4D8; box-shadow:0 0 40px rgba(0,180,216,0.3);" />
       <div style="margin-top:15px; text-align:center;">
         <p style="color:#00B4D8; font-family:'Orbitron',sans-serif; font-size:16px; margin:5px 0; font-weight:700;">EMMY PENCIL</p>
         <p style="color:#90E0EF; font-size:13px; margin:0;">Robotics · AI · Aerospace</p>
@@ -201,10 +201,10 @@
   <tr>
     <td width="33%" align="center" style="background:linear-gradient(145deg,#0A1128,#000000); border:1px solid #00B4D8; border-radius:20px; padding:25px;">
       <h3 style="color:#00B4D8; font-family:'Orbitron',sans-serif;">📊 QuantumAgent</h3>
-      <p style="color:#90E0EF; font-size:13px;">AI-powered decentralized trading platform built on Web3 infrastructure. Combines high-frequency AI decision-making with real-time execution across crypto markets.</p>
+      <p style="color:#90E0EF; font-size:13px;">AI-powered decentralized trading platform on Web3</p>
       <p><strong style="color:#00B4D8;">Status:</strong> <span style="color:#00FF88;">● Active</span></p>
       <p><strong style="color:#00B4D8;">Tech:</strong> Python, TensorFlow, Web3, Solidity</p>
-      <p><strong style="color:#00B4D8;">Impact:</strong> Aggressive, adaptive, intelligent trading</p>
+      <p><strong style="color:#00B4D8;">Impact:</strong> Intelligent crypto trading</p>
       <br />
       <a href="https://quantumagent.one"><img src="https://img.shields.io/badge/▶_DEPLOY-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
@@ -524,5 +524,5 @@ jobs:
 
 <!-- FOOTER BANNER -->
 <p align="center">
-  <img src="assets/footer-banner.png" alt="Emmy Pencil Footer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/EmmyPencilAI/EmmyPencilAI/main/assets/footer-banner.png" alt="Emmy Pencil Footer Banner" width="100%" />
 </p>
