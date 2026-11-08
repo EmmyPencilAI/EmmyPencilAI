@@ -1,0 +1,21 @@
+name: Deploy Git Profile Koi
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:      # lets you run it manually to test
+
+permissions:
+  contents: write         # <-- REQUIRED so the action can commit the SVG
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
