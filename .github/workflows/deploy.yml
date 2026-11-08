@@ -3,6 +3,10 @@ name: Deploy Git Profile Koi
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:      # lets you run it manually to test
+
+permissions:
+  contents: write         # <-- REQUIRED so the action can commit the SVG
 
 jobs:
   build:
