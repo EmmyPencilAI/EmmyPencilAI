@@ -526,4 +526,4 @@ jobs:
 <p align="center">
   <img src="https://raw.githubusercontent.com/EmmyPencilAI/EmmyPencilAI/main/assets/footer-banner.png" alt="Emmy Pencil Footer Banner" width="100%" />
 </p>
-![Git Koi](https://raw.githubusercontent.com/EmmyPencilAI/EmmyPencilAI/main/path-to-fish-image.svg)
+https://raw.githubusercontent.com/EmmyPencilAI/EmmyPencilAI/main/path-to-fish-image.svg
